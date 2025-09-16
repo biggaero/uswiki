@@ -26,20 +26,12 @@ A comprehensive wiki knowledge base plugin for UserSpice that provides hierarchi
 2. **Install via Plugin Manager**: 
    - Go to Admin Dashboard → Plugin Manager
    - Find "UserSpice Wiki" in the list
-   - Click "Install"
+   - Click "Activate" , this will create a menu item and install db table
+   
 
-3. **Create Menu Link** (Important!):
-   - Go to Admin Dashboard → Manage Menu Items
-   - Click "Add Menu Item"
-   - **Label**: "Wiki" (or your preferred name)
-   - **Link**: `users/wiki.php`
-   - **Icon**: `fa fa-book` (optional)
-   - **Permission**: Select appropriate user levels
-   - Click "Add Menu Item"
-
-4. **Access**: After installation and menu setup:
+3. **Access**: After installation:
    - Click "Wiki" in the Plugin Manager for admin access
-   - Users can access via the new menu link you created
+   - Users can access via the new menu link that was automatically created
 
 ## File Structure
 
@@ -193,7 +185,7 @@ For support, please:
 
 ## Changelog
 
-### v0.1.6 ✅ WORKING
+### v1.0.0 ✅ WORKING
 - ✅ Full UserSpice integration
 - ✅ Hierarchical wiki organization
 - ✅ Markdown support with basic formatting
