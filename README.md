@@ -32,6 +32,7 @@ A comprehensive wiki knowledge base plugin for UserSpice that provides hierarchi
 3. **Access**: After installation:
    - Click "Wiki" in the Plugin Manager for admin access
    - Users can access via the new menu link that was automatically created
+   - In the event that you do not want to use the ultramenu link, do not delete the menu item, disable it in Ultramenu
 
 ## File Structure
 
@@ -185,7 +186,7 @@ For support, please:
 
 ## Changelog
 
-### v1.0.0 ✅ WORKING
+### v0.1.7 ✅ WORKING
 - ✅ Full UserSpice integration
 - ✅ Hierarchical wiki organization
 - ✅ Markdown support with basic formatting
