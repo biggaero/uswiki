@@ -185,7 +185,7 @@ For support, please:
 
 ## Changelog
 
-### v1.0.0 ✅ WORKING
+### v0.1.7 ✅ WORKING
 - ✅ Full UserSpice integration
 - ✅ Hierarchical wiki organization
 - ✅ Markdown support with basic formatting
